@@ -1,0 +1,7 @@
+{
+  "name": "The Container Biryani",
+  "description": "A comprehensive restaurant management system for The Container Biryani, featuring real-time ordering, kitchen display, table reservations, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
